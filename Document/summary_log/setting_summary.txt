@@ -1,0 +1,5 @@
+avd_manager -> Q download -> 사용
+
+settings -> editor -> general -> auto import
+			ㄴ add unambiguous imports on the fly - 체크
+			ㄴ optimize imports on the fly (for current project - 체크
